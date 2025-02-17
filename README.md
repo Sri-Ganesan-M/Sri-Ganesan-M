@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me  
 💡 Passionate about exploring new technologies and building cool stuff!  
 📍 Based in *Chennai, India*  
-📬 Reach me at *[abhi11.sbsm@gmail.com](mailto:sriganesan06@gmail.com)*  
+📬 Reach me at *[sriganesan06@gmail.com](mailto:sriganesan06@gmail.com)*  
 🧠 Currently diving deep into *AI, ML, DL & NLP*  
 🤝 Open to collaborations on *software & IoT projects*  
 ⚡ Looking for *job referrals* (Help a dev out! 😉)  
@@ -34,21 +34,19 @@
 
 ## 📚 Projects  
 
-### 🌿 IoT-Based Smart Farming System  
+### 🌿 Iot Based Crop Management and Protection  
 🔹 Built a *Flutter app* for real-time farm monitoring using *DHT11, Soil Moisture sensors, and ESP32*  
 🔹 Integrated *Firebase* for data storage and analytics  
 
-### 🛒 E-commerce Price Comparison  
-🔹 Developed a *web scraping system* using *BeautifulSoup & Selenium*  
-🔹 Compared prices from *multiple online retailers*  
+### 🩻 Automated Chest X-Ray Report Generation using Vision Transformers and GPT-2
+🔹 This project implements a deep learning pipeline for generating radiology reports from chest X-ray images. The system utilizes a Vision Transformer (ViT) to extract image features and a GPT-2 model to synthesize coherent and informative reports.
+🔹 Techniques for data augmentation, class balancing, and performance evaluation using BLEU and ROUGE metrics
+are explored.
 
-### 🚦 Smart Traffic Signal Control Using Game Theory & Deep Learning  
-🔹 Designed an AI-powered *traffic control system* for dynamic signal adjustments  
-🔹 Used *SUMO simulation* and *deep learning models*  
-
-### 🌍 Earthquake Prediction & Visualization  
-🔹 Created an *AI model* to predict earthquakes using *seismic data from USGS API*  
-🔹 Enhanced insights with *interactive Power BI dashboards*  
+### 👔 WorkConnect  
+🔹 A smart recruitment and job management platform that connects HR professionals with job seekers.
+🔹 It streamlines job postings, application tracking, and candidate evaluations while integrating ATS (Applicant Tracking
+System) scoring to assess resume compatibility and improve hiring efficiency.
 
 ---
 
